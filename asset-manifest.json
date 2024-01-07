@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/selectum/static/css/main.7c744b25.css",
+    "main.js": "/selectum/static/js/main.c1f4a741.js",
+    "static/media/receptionist.jpg": "/selectum/static/media/receptionist.3131704d08cc1efe3274.jpg",
+    "static/media/dishwasher.jpg": "/selectum/static/media/dishwasher.c701ee28b53360a580d9.jpg",
+    "static/media/waiter2.jpg": "/selectum/static/media/waiter2.abe5cdb9eac65fba4ce7.jpg",
+    "static/media/cook.jpg": "/selectum/static/media/cook.60c6bc2934c321fffc58.jpg",
+    "static/media/about-bg-d.jpg": "/selectum/static/media/about-bg-d.4d9c33d0779930749b74.jpg",
+    "static/media/about-bg-istanbul.jpg": "/selectum/static/media/about-bg-istanbul.b1831505038745bc1894.jpg",
+    "static/media/bartender.jpg": "/selectum/static/media/bartender.e47e99ad7d76b83f3dc8.jpg",
+    "static/media/animators.jpg": "/selectum/static/media/animators.a0397604d60e6605e03d.jpg",
+    "static/media/team-sunset-d.jpg": "/selectum/static/media/team-sunset-d.b8f7e5e4ba9585e26a09.jpg",
+    "static/media/housekeeper.jpg": "/selectum/static/media/housekeeper.6a1614d362ba5a0e5bf1.jpg",
+    "static/media/team-sunset.jpg": "/selectum/static/media/team-sunset.be8ece855a78e1fd8cea.jpg",
+    "static/media/selectum-logo.jpg": "/selectum/static/media/selectum-logo.33e864fe39a5b59a8c46.jpg",
+    "static/media/bellboy.jpg": "/selectum/static/media/bellboy.53511dd39a18f5251a1c.jpg",
+    "index.html": "/selectum/index.html",
+    "static/media/close-icon.svg": "/selectum/static/media/close-icon.e99fec9ed7ab7a90febdc4ba9b83cbd7.svg",
+    "static/media/burger-icon.svg": "/selectum/static/media/burger-icon.c41a61040bc8656a248069f85f32190e.svg",
+    "main.7c744b25.css.map": "/selectum/static/css/main.7c744b25.css.map",
+    "main.c1f4a741.js.map": "/selectum/static/js/main.c1f4a741.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c744b25.css",
+    "static/js/main.c1f4a741.js"
+  ]
+}
